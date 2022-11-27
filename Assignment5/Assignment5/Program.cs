@@ -18,6 +18,7 @@ namespace Assignment5
             inventory.AddItem(potion);
             inventory.AddItem(axe);
             Console.WriteLine(inventory.AvailableSlots);
+
         }
     }
 }
